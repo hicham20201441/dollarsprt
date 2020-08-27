@@ -10,7 +10,6 @@ https://dollarsprout.com/50-30-20-budget-calculator/
 https://dollarsprout.com/american-express-personal-savings-review/
 https://dollarsprout.com/mistplay-review/
 https://dollarsprout.com/how-to-sell-your-services-online/
-https://dollarsprout.com/author/bart-wolbers/
 https://dollarsprout.com/should-i-buy-bitcoin/
 https://dollarsprout.com/residual-income-ideas/
 https://dollarsprout.com/branded-surveys-review/
@@ -20,7 +19,6 @@ https://dollarsprout.com/steps-freelancers-should-take-during-the-coronavirus/
 https://dollarsprout.com/how-to-earn-income-as-a-virtual-consultant/
 https://dollarsprout.com/fincon-2019/
 https://dollarsprout.com/how-to-avoid-lifestyle-inflation/
-https://dollarsprout.com/author/kim-porter/
 https://dollarsprout.com/what-to-bring-to-a-job-interview/
 https://dollarsprout.com/how-to-negotiate-your-salary/
 https://dollarsprout.com/skills-employers-look-for/
