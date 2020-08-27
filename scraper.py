@@ -521,7 +521,14 @@ https://dollarsprout.com/terms-of-use/
 # # Read in a page
 for e in s.split():
   html = scraperwiki.scrape(e)
-  scraperwiki.sqlite.save(unique_keys=['link'], data={"link": e, "html": html.decode('utf-8')})
+  root = lxml.html.fromstring(html)
+  try:
+    j=root.cssselect("div[class='blog-col']")
+    for u in j:
+      scraperwiki.sqlite.save(unique_keys=['link'], data={"link": e, "html": u.decode('utf-8')})
+  except:
+    pass
+  
 # html = scraperwiki.scrape("http://foo.com")
 #
 # # Find something on the page using css selectors
